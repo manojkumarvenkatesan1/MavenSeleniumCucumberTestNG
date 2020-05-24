@@ -5,7 +5,7 @@ Scenario: Example for cucumber datatable in feature
 Given load the webpage
 When Click on "Edit" button
 And Enter the text
-|text1|text2|
+#|text1|text2|
 
   
  
